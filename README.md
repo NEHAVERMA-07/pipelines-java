@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/NehaVerma0902/pipeline-java/_apis/build/status/pipeline-java-Maven-CI?branchName=master)](https://dev.azure.com/NehaVerma0902/pipeline-java/_build/latest?definitionId=5&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
